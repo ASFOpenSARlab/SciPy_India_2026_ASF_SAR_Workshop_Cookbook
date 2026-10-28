@@ -1,23 +1,15 @@
-# [OpenScienceLab Cookbook Template] Replace with Your Title
+# SciPy India 2026: Alaska Satellite Facility NISAR Workshop 
 
 <img src="assets/ASF_logo.svg" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/actions/workflows/nightly-build.yaml)
 
-
-This Cookbook Template was adapted from the Project Pythia [Cookbook Template](https://github.com/projectpythia/cookbook-template/blob/main/README.md). It has been updated to provide templates for ASF Cookbooks using the Pixi package manager.
-
-See the [Project Pythia Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide/#:~:text=forking%20workflow.-,G.%20Deploying%20your%20Cookbook,%C2%B6,-Pythia%20Cookbooks%20are) for instructions on deploying your Cookbook to GitHub Pages.
-
-This Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
-
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
-
+Session 2 of this workshop introduces NISAR and walks participants through real-world applications with various NISAR products. 
 ## Authors
 
-First Author, Second Author, etc. _Acknowledge primary content authors here! You can include links to their GitHub profiles or other unique pages._
+Alex Lewandowski, Julia White 
 
 ### Contributors
 
@@ -25,15 +17,18 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
   <img src="https://contrib.rocks/image?repo=ASFOpenSARlab/ASF_Cookbook_Template" />
 </a>
 
-## Structure
+### I: The NISAR Mission 
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+- NISAR mission overview
+- Overview of NISAR products
+- Useful resources for accessing and using NISAR data 
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### II: Using NISAR GCOV Data 
+- What is NISAR GCOV data?
+- What is in a NISAR GCOV file?
+- What are the applications for GCOV data? - this might be covered in section 1: useful resources for NISAR data 
 
-(Add content for this section, e.g., "The foundational content includes ... ")
-
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### III: Using NISAR GUNWs 
 
 (Add content for this section, e.g., "Example workflows include ... ")
 
