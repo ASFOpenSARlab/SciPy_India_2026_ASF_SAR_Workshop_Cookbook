@@ -19,6 +19,9 @@ project:
       children:
         - file: CONTRIBUTING.md
         - file: notebooks/notebook-template.ipynb
+    - title: NISAR GCOV
+      children:
+        - file: GCOV_intro.md
 
 site:
   template: book-theme
