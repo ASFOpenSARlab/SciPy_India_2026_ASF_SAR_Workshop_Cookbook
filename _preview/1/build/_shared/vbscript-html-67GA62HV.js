@@ -1,0 +1,1 @@
+import{c as t}from"/SciPy_India_2026_ASF_SAR_Workshop_Cookbook/_preview/1/build/_shared/chunk-RAQ24GF6.js";var i=t((a,n)=>{function e(s){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}n.exports=e});export default i();
