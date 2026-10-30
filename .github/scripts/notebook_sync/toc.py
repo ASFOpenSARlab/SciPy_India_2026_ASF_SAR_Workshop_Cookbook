@@ -10,7 +10,7 @@ from .common import DEST_DIR, MYST_FILE, log
 
 # These marker comments are already in myst.yml files; changing them would make the
 # sync add a second block instead of updating the existing one.
-TOC_BEGIN = '# >>> external notebooks: managed by .github/scripts/sync_external_notebooks.py, do not edit by hand'
+TOC_BEGIN = '# >>> external notebooks: managed by .github/scripts/sync_external_notebooks.py'
 
 
 TOC_END = '# <<< external notebooks'
