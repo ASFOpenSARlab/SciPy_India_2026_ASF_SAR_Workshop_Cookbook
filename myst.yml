@@ -19,6 +19,11 @@ project:
       children:
         - file: CONTRIBUTING.md
         - file: notebooks/notebook-template.ipynb
+    # >>> external notebooks: managed by .github/scripts/sync_external_notebooks.py, do not edit by hand
+    - title: "Imported Notebooks"
+      children:
+        - file: external/ASFOpenSARlab/NISAR_Cookbook/notebooks/search_stream_NISAR_asf_search.ipynb
+    # <<< external notebooks
 
 site:
   template: book-theme
