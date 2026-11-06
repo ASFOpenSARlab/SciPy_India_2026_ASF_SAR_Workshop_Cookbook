@@ -22,4 +22,7 @@
   <url>
     <loc>http://localhost:3000/gcov-intro</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/search-stream-nisar-asf-search</loc>
+  </url>
 </urlset>
