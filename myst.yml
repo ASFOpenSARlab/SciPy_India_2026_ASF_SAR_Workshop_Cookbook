@@ -19,10 +19,15 @@ project:
       children:
         - file: CONTRIBUTING.md
         - file: notebooks/notebook-template.ipynb
+    - title: NISAR GCOV
+      children:
+        - file: GCOV_intro.md
+
     # >>> external notebooks: managed by .github/scripts/sync_external_notebooks.py
     - title: "Imported Notebooks"
       children:
         - file: external/ASFOpenSARlab/NISAR_Cookbook/notebooks/search_stream_NISAR_asf_search.ipynb
+        - file: external/ASFOpenSARlab/NISAR_Cookbook/notebooks/NISAR_GCOV_Time_Series_Example.ipynb
     # <<< external notebooks
 
 site:
