@@ -27,6 +27,7 @@ project:
     - title: "Imported Notebooks"
       children:
         - file: external/ASFOpenSARlab/NISAR_Cookbook/notebooks/search_stream_NISAR_asf_search.ipynb
+        - file: external/ASFOpenSARlab/NISAR_Cookbook/notebooks/NISAR_GCOV_Time_Series_Example.ipynb
     # <<< external notebooks
 
 site:
